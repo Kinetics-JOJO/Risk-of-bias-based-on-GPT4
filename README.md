@@ -1,4 +1,4 @@
-# Summary-of-GPT4-useful-tool
+# Risk of bias accessment based on GPT4
 Useful tool in GPT4 Explore
 Risk of bias evaluation based on paper below:  
 ![PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies](https://www.acpjournals.org/doi/10.7326/M18-1376)  
