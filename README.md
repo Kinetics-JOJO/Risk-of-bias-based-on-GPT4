@@ -9,9 +9,14 @@ PROBAST Risk of Bias Assessment tool powered by GPT4 OpenAI:
 Still in progress....  
 
 # Useful promopt 
+Read these pdf, and return risk of bias table below:  
+|Author,year | Participants	| Predictors	| Outcomes	| Analysis	| Overall Score | 	  
+  
+1.List out the risk of bias detail ,highlighted the results of accessment  
+2.The  table only need to be fill with High,Low,Unclear in column 2-6    
 
 
-# Limitation  
+# Limitation    
 
 Limited by the number of token, pdf can only be read through 2-3 at one time.
 
